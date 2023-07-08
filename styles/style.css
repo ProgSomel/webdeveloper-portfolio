@@ -120,3 +120,59 @@ nav a {
 .about-info {
     text-align: center;
 }
+/*! What i do section  */
+.what-i-do {
+    width: 1140px;
+
+    
+}
+.what-i-do-heading {
+    color: var(--dark-01, #181818);
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-left: 415px;
+}
+.what-i-do-des {
+    color: var(--dark-03, #757575);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 415px;
+
+
+}
+.what-i-do-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 230px;
+
+}
+.what-i-do-box {
+    width: 200px;
+    height: 277px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 20px;
+}
+.box-img {
+    width: 44px;
+    height: 44px;
+    margin-bottom: 10px;
+}
+.box-title {
+    color: var(--dark-01, #181818);
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+.box-des {
+    color: var(--dark-03, #757575);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 10px;
+
+}
