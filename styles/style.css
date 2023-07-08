@@ -176,3 +176,16 @@ nav a {
     margin-bottom: 10px;
 
 }
+/*! summary of resume  */
+.summary-heading {
+    margin: 130px 573px;
+    text-align: center;
+}
+.summary-container {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 240px;
+}
+.resume-btn{
+    margin: 40px 720px;
+}
