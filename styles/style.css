@@ -5,7 +5,9 @@ body {
 }
 .text-primary {
     color: #FD6E0A;
-    width: 120px;
+}
+.btn-primary {
+    width: 140px;
     height: 44px;
     color: #FFF;
     border: none;
@@ -13,16 +15,17 @@ body {
     background: #FD6E0A;
     font-size: 20px;
     font-weight: 700;
-}
-.btn-primary {
-
+    padding: 10px 25px;
 }
 /*! Navbar  */
 nav {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 nav>ul {
-    display: flex;      
+    display: flex;  
+    align-items: center;    
 }
 nav li {
     list-style: none;
